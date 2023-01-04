@@ -18,3 +18,29 @@
     margin-left:auto;
     margin-right:auto;
 }
+
+.line1 {
+    border-bottom:2px solid white;
+}
+
+.nav_text_color {
+    color:white;
+}
+
+.position_logo {
+    position:relative;
+    bottom:-10px;
+}
+
+.nav_link a:hover {
+    border-bottom: 5px solid white;
+}
+
+.nav_link h4 {
+    color:white;
+}
+
+.vertical_center_div {
+    margin-top:auto;
+    margin-bottom:auto;
+}
