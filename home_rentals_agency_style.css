@@ -5,13 +5,9 @@
 
 .add_background_image {
     background-image:url('background1.png');
-    background-size:cover;
+    background-size: cover;
     background-repeat:no-repeat;
-    background-attachment:fixed;
-}
-
-.background_height1 {
-    height:1500px;
+    
 }
 
 .center_div {
@@ -43,4 +39,21 @@
 .vertical_center_div {
     margin-top:auto;
     margin-bottom:auto;
+}
+
+.input_group_height {
+    height:80px;
+    width:450px;
+}
+
+.shift_to_right {
+    margin-left:0px;
+}
+
+.rounded_borders {
+    border-radius:10px;
+}
+
+.empty_div {
+    height:200px;
 }
