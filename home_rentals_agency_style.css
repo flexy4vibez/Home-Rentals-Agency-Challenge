@@ -59,7 +59,7 @@
 }
 
 .text_underline1 {
-    border-bottom: 3px solid red;
+    border-bottom: 3px solid #F4511E;
 }
 
 .position_top_div {
@@ -82,5 +82,20 @@
     position:relative;
     left:-8%;
     top:15%;
+}
+
+.empty_div2 {
+    height:40px;
+}
+
+.button_color {
+    background-color:#F4511E;
+    color:white;
+}
+
+.home_image_position {
+    position:relative;
+    top:3px;
+    left:-8px;
 }
 
