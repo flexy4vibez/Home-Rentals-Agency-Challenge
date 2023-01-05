@@ -29,7 +29,7 @@
 }
 
 .nav_link a:hover {
-    border-bottom: 5px solid white;
+    border-bottom: 3px solid white;
 }
 
 .nav_link h4 {
@@ -57,3 +57,24 @@
 .empty_div {
     height:200px;
 }
+
+.text_underline1 {
+    border-bottom: 3px solid red;
+}
+
+.position_top_div {
+    position:relative;
+    top:0px;
+}
+
+.position_bottom_div {
+    position:relative;
+    bottom:-200px;
+}
+
+.vector_position {
+    position:relative;
+    top:-122px;
+    left:-94px;
+}
+
