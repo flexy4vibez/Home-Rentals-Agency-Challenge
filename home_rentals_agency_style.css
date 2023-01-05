@@ -64,17 +64,23 @@
 
 .position_top_div {
     position:relative;
-    top:0px;
+    top:15%;
 }
 
 .position_bottom_div {
     position:relative;
-    bottom:-200px;
+    bottom:-28%;
 }
 
 .vector_position {
     position:relative;
-    top:-122px;
-    left:-94px;
+    top:0px;
+    left:-11px;
+}
+
+.vector_text_position {
+    position:relative;
+    left:-8%;
+    top:15%;
 }
 
