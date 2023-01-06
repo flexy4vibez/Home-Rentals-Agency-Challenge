@@ -100,10 +100,19 @@
 }
 
 .home_image_div_height {
-    height:400px;
+    height:415px;
 }
 
 .price_color {
     color:#F4511E
 }
+
+.icon_right_margin {
+    margin-right:25px;
+}
+
+.icon_left_margin {
+    margin-left:25px;
+}
+
 
