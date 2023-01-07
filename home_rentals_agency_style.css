@@ -115,4 +115,42 @@
     margin-left:25px;
 }
 
+.div_height_short1 {
+    height:280px;
+}
 
+.div_height_short2 {
+    height:310px;
+}
+
+.div_height_tall1 {
+    height:345px;
+}
+
+.div_height_tall2 {
+    height:380px;
+}
+
+.top_left_background {
+    background-image:url('fl1.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.top_right_background {
+    background-image:url('fl2.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.bottom_left_background {
+    background-image:url('fl3.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.bottom_right_background {
+    background-image:url('fl4.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
