@@ -164,6 +164,7 @@
 
 .add_box_shadow {
     box-shadow:5px 5px 20px black;
+    border-radius:10px;
 }
 
 .upload_photos_div {
@@ -171,3 +172,17 @@
     border:1px dashed #F4511E;
     border-radius:10px;
 }
+
+.bio_background_color {
+    background-color:rgba(244, 81, 30, 0.07);  
+}
+
+.icon_style {
+    color:#F4511E;
+    font-size:26px;
+}
+
+.icon_spacing {
+    margin-right:5px;
+}
+
