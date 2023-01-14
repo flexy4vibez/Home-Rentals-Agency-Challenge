@@ -66,6 +66,11 @@
     height:40px;
 }
 
+.empty_div3 {
+    height:550px;
+    
+}
+
 .button_color {
     background-color:#F4511E;
     color:white;
@@ -81,22 +86,6 @@
 
 .icon_left_margin {
     margin-left:25px;
-}
-
-.div_height_short1 {
-    height:280px;
-}
-
-.div_height_short2 {
-    height:310px;
-}
-
-.div_height_tall1 {
-    height:345px;
-}
-
-.div_height_tall2 {
-    height:380px;
 }
 
 .top_left_background {
